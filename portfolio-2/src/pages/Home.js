@@ -1,6 +1,7 @@
 import NavBar from "../components/Navbar"
 import "./Home.css"
 import videoBg from "../assets/video-1.mp4"
+import Footer from "../components/Footer"
 
 
 export default function AboutMe(){
@@ -20,6 +21,7 @@ export default function AboutMe(){
 
                 I am excited about the possibilities that lie ahead and look forward to making a positive impact through my expertise in AI, ML, and Fullstack development.</p>
             </div>
+            <Footer />
         </>
     )
 }
