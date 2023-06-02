@@ -13,8 +13,8 @@ function App() {
           <Route index element={<AboutMe/>}/>
           <Route path='/home' element={<AboutMe/>}/>
           <Route path='/contact' element={<Contact/>}/>
-          <Route path='/Portfolio' element={<Portfolio/>}/>
-          <Route path='/Resume' element={<Resume/>}/>
+          <Route path='/portfolio' element={<Portfolio/>}/>
+          <Route path='/resume' element={<Resume/>}/>
         </Routes> 
       </BrowserRouter>
     </div>
