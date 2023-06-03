@@ -20,6 +20,8 @@ export default function AboutMe(){
                 Education has always been a priority for me, and I hold a Master's degree in AI and ML (Artificial Intelligence and Machine Learning). I am passionate about these fields and continuously strive to expand my knowledge and skills in them. My future aspirations include applying my education in AI, ML, and Fullstack development to pursue a rewarding career in these areas.
 
                 I am excited about the possibilities that lie ahead and look forward to making a positive impact through my expertise in AI, ML, and Fullstack development.</p>
+                <img className="portrait" src={require("../assets/me.JPG")}  />
+
             </div>
             <Footer />
         </>
