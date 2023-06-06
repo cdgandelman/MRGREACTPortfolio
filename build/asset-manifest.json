@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MRGREACTPortfolio/static/css/main.4fdf0603.css",
+    "main.js": "/MRGREACTPortfolio/static/js/main.1637b7fa.js",
+    "static/media/video-1.mp4": "/MRGREACTPortfolio/static/media/video-1.59e75226d30ad48f9ede.mp4",
+    "static/media/contactimg.jpg": "/MRGREACTPortfolio/static/media/contactimg.f53307ec2762e2a39cbb.jpg",
+    "static/media/img-2.jpg": "/MRGREACTPortfolio/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/screenshot.jpeg": "/MRGREACTPortfolio/static/media/screenshot.8ffc502b98d669fbf525.jpeg",
+    "static/media/ImageSearch1.PNG": "/MRGREACTPortfolio/static/media/ImageSearch1.1e63198a7d581db1e8bb.PNG",
+    "static/media/me.JPG": "/MRGREACTPortfolio/static/media/me.cefb52b50961f8530231.JPG",
+    "static/media/Workday1.JPG": "/MRGREACTPortfolio/static/media/Workday1.b994332db8fa6c60608c.JPG",
+    "static/media/Resume.pdf": "/MRGREACTPortfolio/static/media/Resume.efb021ade26c280d2e4a.pdf",
+    "static/media/Notetaker.PNG": "/MRGREACTPortfolio/static/media/Notetaker.79f8a33bea6c2f962f4b.PNG",
+    "index.html": "/MRGREACTPortfolio/index.html",
+    "main.4fdf0603.css.map": "/MRGREACTPortfolio/static/css/main.4fdf0603.css.map",
+    "main.1637b7fa.js.map": "/MRGREACTPortfolio/static/js/main.1637b7fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fdf0603.css",
+    "static/js/main.1637b7fa.js"
+  ]
+}
