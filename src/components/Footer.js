@@ -9,7 +9,7 @@ function Footer() {
               Chad Gandelman Portfolio
           </p>
           <p className='footer-subscription-text'>
-              Copyright @2023
+              Copyright @2023 
           </p>
               <a
                   href="https://github.com/cdgandelman"
