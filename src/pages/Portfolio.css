@@ -1,10 +1,5 @@
-body{
-    background-image: url("../assets/img-2.jpg"); /* Replace with the correct path to your background image */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-/* Center the header */
+
+
 h2 {
     text-align: center;
     margin: 20px;
